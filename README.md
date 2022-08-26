@@ -46,3 +46,4 @@
     </summary>
 
 <a href="https://github.com/keyiflerolsun/KekikSpatula" target="_blank"><img height="150px" width="45%" alt="KekikSpatula" src="https://github-readme-stats.vercel.app/api/pin/?username=keyiflerolsun&repo=KekikSpatula&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a>
+    <a href="https://github.com/keyiflerolsun/pyHES" target="_blank"><img height="150px" width="45%" alt="pyHES" src="https://github-readme-stats.vercel.app/api/pin/?username=keyiflerolsun&repo=pyHES&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a>
