@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-karada%C4%9F/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ömer%20Faruk%20Karadağ-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:omerfkaradag@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-omerfkaradag@outlook.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:omerfkaradag@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-omerfkaradag@outlook.com-blue?style=flat-square&logo=mail"></a>
 </p>
 
 - 🌱 I’m currently learning **Python,NodeJS,Php**
