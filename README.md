@@ -42,6 +42,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emousec2&show_icons=true&theme=vue&locale=en" alt="emousec2" width="50%" /></p>
 
+<p align="center"> <img align="center" src="https://user-images.githubusercontent.com/62518057/170106304-18cd6372-ccd0-4f4f-ad0a-e024ff4ffd96.svg"</p>
+
 
 <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
