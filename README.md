@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Ömer</h1>
 <h3 align="center">A passionate data analyst from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emousec2&label=Profile%20views&color=0e75b6&style=flat" alt="emousec2" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emousec2&label=Profile%20views&color=0e75b6&style=flat" alt="emousec2" /> </p>
 
-<p align="left"> <a href="https://twitter.com/emousec2" target="blank"><img src="https://img.shields.io/twitter/follow/emousec2?logo=twitter&style=for-the-badge" alt="emousec2" /></a> </p>
+<p align="center"> <a href="https://twitter.com/emousec2" target="blank"><img src="https://img.shields.io/twitter/follow/emousec2?logo=twitter&style=for-the-badge" alt="emousec2" /></a> </p>
 
 - 🌱 I’m currently learning **Python,NodeJS,Php**
 
