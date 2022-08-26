@@ -37,3 +37,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emousec2&show_icons=true&theme=vue&locale=en&layout=compact" alt="emousec2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emousec2&show_icons=true&theme=vue&locale=en" alt="emousec2" width="50%" /></p>
+
+
+<details align="center">
+    <summary style="font-weight: bold; font-size: 18px">
+        <b>Projeler</b>
+        <i>(genişletmek için tıklayın!)</i>
+    </summary>
+
+<a href="https://github.com/keyiflerolsun/KekikSpatula" target="_blank"><img height="150px" width="45%" alt="KekikSpatula" src="https://github-readme-stats.vercel.app/api/pin/?username=keyiflerolsun&repo=KekikSpatula&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a>
