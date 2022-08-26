@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://twitter.com/emousec2" target="blank"><img src="https://img.shields.io/twitter/follow/emousec2?logo=twitter&style=for-the-badge" alt="emousec2" /></a> </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/enes-polat-09671743/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ömer-faruk-karadağ-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/enes-polat-09671743/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omer%Faruk%Karadag-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:omerfkaradag@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-omerfkaradag@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
