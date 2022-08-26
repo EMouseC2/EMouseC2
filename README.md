@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/emousec2" target="blank"><img src="https://img.shields.io/twitter/follow/emousec2?logo=twitter&style=for-the-badge" alt="emousec2" /></a> </p>
 
+- 🌱 I’m currently learning **Python,NodeJS,Php**
+
+- 📫 How to reach me **omerfkaradag@outlook.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/emousec2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="emousec2" height="30" width="40" /></a>
