@@ -36,4 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emousec2&show_icons=true&theme=vue&locale=en&layout=compact" alt="emousec2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emousec2&show_icons=true&theme=dark&locale=en" alt="emousec2" width="50%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emousec2&show_icons=true&theme=vue&locale=en" alt="emousec2" width="50%" /></p>
