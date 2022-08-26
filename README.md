@@ -45,5 +45,5 @@
         <i>(genişletmek için tıklayın!)</i>
     </summary>
 
-<a href="https://github.com/EMouseC2/Qr-Coder" target="_blank"><img height="150px" width="45%" alt="Qr-Coder" src="https://github-readme-stats.vercel.app/api/pin/?username=emousec2&repo=Qr-Coder&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a>
-<a href="https://github.com/EMouseC2/Qr-Coder" target="_blank"><img height="150px" width="45%" alt="Qr-Coder" src="https://github-readme-stats.vercel.app/api/pin/?username=emousec2&repo=Qr-Coder&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a>
+<a href="https://github.com/EMouseC2/Qr-Coder" target="_blank"><img height="150px" width="45%" alt="Qr-Coder" src="https://github-readme-stats.vercel.app/api/pin/?username=emousec2&repo=Qr-Coder&layout=buefy&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a>
+<a href="https://github.com/EMouseC2/Qr-Coder" target="_blank"><img height="150px" width="45%" alt="Qr-Coder" src="https://github-readme-stats.vercel.app/api/pin/?username=emousec2&repo=Qr-Coder&layout=buefy&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a>
